@@ -1,2 +1,1 @@
-Meu projeto KPI iniciado.
-
+Projeto KPI inicializado.
