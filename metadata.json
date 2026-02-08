@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Indicadores KPI",
+  "description": "Uma aplicação completa para cadastro e monitoramento de indicadores de desempenho, permitindo a gestão de numeradores, denominadores, metas e visualização de resultados em tempo real.",
+  "requestFramePermissions": []
+}
